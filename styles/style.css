@@ -86,3 +86,28 @@ main {
 .image-box h4 {
 	font-size: 1.124rem;
 }
+
+.section1 {
+	width: 1000px;
+	height: auto;
+	position: relative;
+	border: 1px solid white;
+	display: inline-block;
+}
+
+.tea-of-the-month {
+	position: relative;
+	width: 1000px;
+	height: auto;
+}
+
+.tea-of-the-month-pictures {
+	width: 300px;
+	height: 240px;
+	/* position: relative; */
+	text-align: center;
+}
+
+.tea-of-the-month-pictures img {
+	width: 300px;
+}
